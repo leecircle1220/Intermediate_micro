@@ -1,3 +1,5 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # Intermediate Microeconomics Notes
 
 These are my personal lecture and class notes from the **Intermediate Microeconomics** course I took as a student at **NCCU**. 
