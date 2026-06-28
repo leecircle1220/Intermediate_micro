@@ -13,8 +13,6 @@
 * [About](#about)
 * [Textbook](#textbook)
 * [Topics Covered](#topics-covered)
-  * [Introduction](#introduction)
-  * [Externalities](#externalities)
 * [How to Use](#how-to-use)
 * [Disclaimer](#disclaimer)
 * [Feedback](#feedback)
@@ -241,9 +239,9 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 </details>
 
+<summary><b>Externalities</b></summary>
 
-### Externalities
-
+</details>
 
 ---
 
