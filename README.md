@@ -26,13 +26,6 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 ---
 
-## About These Notes
-
-* Written by me **while taking the course as a student**
-* Combine **formal lecture content** with my own **in-class notes**, explanations, and worked examples
-* Organized to follow the flow of the semester
-
----
 
 ## Topics Covered
 
@@ -234,8 +227,6 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 
 ### Externalities
-
-
 
 
 ---
