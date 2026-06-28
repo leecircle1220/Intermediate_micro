@@ -249,6 +249,8 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 These notes are meant as a **study aid**, not a replacement for lectures or the assigned textbook. They work best when used alongside official course materials.
 
+---
+
 ## Disclaimer
 
 These are **student-written notes** and may contain mistakes or personal interpretations. 
@@ -258,6 +260,8 @@ These are **student-written notes** and may contain mistakes or personal interpr
 ## Feedback
 
 Spotted an error or have a suggestion? Feel free to open an [issue](../../issues) or submit a pull request.
+
+---
 
 ## License
 
