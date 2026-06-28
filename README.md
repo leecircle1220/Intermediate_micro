@@ -1,8 +1,14 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 # Intermediate Microeconomics Notes
 
-These are my personal lecture and class notes from the **Intermediate Microeconomics** course I took as a student at **NCCU**. 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)
+![Made with Markdown](https://img.shields.io/badge/made%20with-Markdown-1f425f.svg)
+
+> Personal lecture and class notes from the **Intermediate Microeconomics** course at **NCCU**, written while I was a student.
+
+## About
+
+These are my own notes — a mix of **formal lecture content** and **in-class explanations**, worked examples, and derivations — organized to follow the flow of the course across **two semesters**.
 
 I'm sharing them in case they're helpful to other students studying the same material, reviewing for exams, or just looking for an extra reference alongside their textbook. 
 
@@ -246,9 +252,16 @@ These are **student-written notes** and may contain mistakes or personal interpr
 
 ## Feedback
 
-Spotted an error or have a suggestion? Feel free to open an issue or submit a pull request.
+Spotted an error or have a suggestion? Feel free to open an [issue](../../issues) or submit a pull request.
 
+## License
 
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+You are free to share and adapt these notes for **non-commercial** purposes, with appropriate credit and under the same license.
 
 
 
