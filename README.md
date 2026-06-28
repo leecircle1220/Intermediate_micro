@@ -127,6 +127,107 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 </details>
 
+<details>
+<summary><b>Costs I</b></summary>
+
+* Opportunity Costs and Sunk Costs
+* Short-Run Costs
+* Long-Run Costs
+
+</details>
+
+<details>
+<summary><b>Costs II</b></summary>
+
+* Expansion path and long-run cost curves
+* Long-Run average cost as the envelope of short-run cost curves
+
+</details>
+
+<details>
+<summary><b>Perfect Competition I</b></summary>
+
+* Conditions of Price Taking
+* Short-Run Profit Maximization
+* Short-Run Market Supply
+
+</details>
+
+<details>
+<summary><b>Perfect Competition II</b></summary>
+
+* Short-Run Market Equilibrium
+* Long-Run Market Supply
+* Long-Run Market Equilibrium
+
+</details>
+
+<details>
+<summary><b>Perfect Competition III</b></summary>
+
+* Competition Maximizes Welfare
+* Policy Applications I
+* Policy Applications II
+
+</details>
+
+<details>
+<summary><b>General Equilibrium</b></summary>
+
+* Idea of General Equilibrium
+* Trading Between Two People
+* First Theorem of Welfare Economics + Second Theorem of Welfare Economics
+* Sources of Inefficiency
+
+</details>
+
+<details>
+<summary><b>Monopoly and Monopsony</b></summary>
+
+* Monopoly
+* Monopsony
+* Price Discrimination
+
+</details>
+
+<details>
+<summary><b>Game Theory I</b></summary>
+
+* Elements of Games
+* Two Pigs in a Box / Prisoner Dilemma
+* Mixed Strategy
+
+</details>
+
+<details>
+<summary><b>Game Theory II</b></summary>
+
+* Nash Equilibrium and Pareto Optimum
+* Repeated Games
+* Sequential Games
+
+</details>
+
+<details>
+<summary><b>Oligopoly I</b></summary>
+
+* Tit-for-Tat
+* Ultimatum Games
+* Cournot Model
+
+</details>
+
+<details>
+<summary><b>Oligopoly II</b></summary>
+
+* Stackelberg Model
+* Bertrand Model
+* Monopolistic Competition
+
+</details>
+
+
+### Externalities
 
 
 
