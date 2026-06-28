@@ -6,6 +6,22 @@
 
 > Personal lecture and class notes from the **Intermediate Microeconomics** course at **NCCU**, written while I was a student.
 
+---
+
+## Table of Contents
+
+* [About](#about)
+* [Textbook](#textbook)
+* [Topics Covered](#topics-covered)
+  * [Introduction](#introduction)
+  * [Externalities](#externalities)
+* [How to Use](#how-to-use)
+* [Disclaimer](#disclaimer)
+* [Feedback](#feedback)
+* [License](#license)
+
+---
+
 ## About
 
 These are my own notes — a mix of **formal lecture content** and **in-class explanations**, worked examples, and derivations — organized to follow the flow of the course across **two semesters**.
