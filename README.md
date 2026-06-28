@@ -100,6 +100,35 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 </details>
 
+<details>
+<summary><b>Policy Applications and Labor Supply Model</b></summary>
+
+* Effects of Government Policies
+* Labor Supply Model
+* Income and Substitution Effects of a Wage Change
+
+</details>
+
+<details>
+<summary><b>Labor Supply and Two-Period Consumption Model</b></summary>
+
+* Applications of Labor Supply Model
+* Income Tax Rate and Tax Revenue
+* Two-Period Consumption Model 
+
+</details>
+
+<details>
+<summary><b>Production</b></summary>
+
+* Short-Run and Long-Run Production
+* The Elasticity of Substitution
+* Returns to Scale
+
+</details>
+
+
+
 
 
 ---
