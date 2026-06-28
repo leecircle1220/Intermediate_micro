@@ -30,6 +30,76 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 ## Topics Covered
 
+### Introduction
+
+<details>
+<summary><b>Supply and Demand </b></summary>
+
+* Demand and Supply
+* Equilibrium
+* Comparative Statics
+* Comparative Statics Using Calculus
+* Elasticities
+* Effects of a Sales Tax
+
+</details>
+
+<details>
+<summary><b>Consumer Theory </b></summary>
+
+* Effects of a Sales Tax
+* Preferences
+* Utility
+* Utility functions
+* Budget Constraints
+* Constrained Optimization I
+
+</details>
+
+<details>
+<summary><b>Demand I</b></summary>
+
+* Constrained Optimization II
+* Lagrangian Method
+* Behavioral Economics: Tax Salience
+
+</details>
+
+<details>
+<summary><b>Demand II</b></summary>
+
+* Price Effect and Demand Curve
+* Income Effect and Engel Curve
+* Price Effect = Income Effect + Substitution Effect
+
+</details>
+
+<details>
+<summary><b>Demand III</b></summary>
+
+* Slutsky Equation
+* Derive Slutsky Equation Using Calculus
+* Cost-of-living Adjustments I
+
+</details>
+
+<details>
+<summary><b>Demand IV</b></summary>
+
+* Cost-of-Living Adjustments II
+* Revealed Preferences
+
+</details>
+
+<details>
+<summary><b>Consumer Welfare</b></summary>
+
+* Consumer Surplus
+* Compensated Variation
+* Equivalent Variation
+
+</details>
+
 
 
 ---
