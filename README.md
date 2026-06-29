@@ -43,7 +43,10 @@ I'm sharing them in case they're helpful to other students studying the same mat
 
 ## Topics Covered
 
-### Introduction
+</details>
+<summary><b>Introduction</b></summary>
+
+</details>
 
 <details>
 <summary><b>Supply and Demand </b></summary>
@@ -238,7 +241,6 @@ I'm sharing them in case they're helpful to other students studying the same mat
 * Monopolistic Competition
 
 </details>
-
 <summary><b>Externalities</b></summary>
 
 </details>
